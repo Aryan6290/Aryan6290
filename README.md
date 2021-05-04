@@ -1,8 +1,6 @@
 ### Hi there, I am  Aryan👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Flutter and React Native
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Android projects
@@ -11,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
 
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
