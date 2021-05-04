@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 
 
 
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Aryan6290)
 
-c
+
+
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/ar-yawn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
