@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Aryan6290/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Aryan6290&count_private=true&show_icons=true)
+![](https://komarev.com/ghpvc/?username=Aryan6290&count_private=true&show_icons=true&theme=onedark)
 
 c
 <i>Follow me:</i><br>
