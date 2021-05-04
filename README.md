@@ -1,7 +1,5 @@
-### Hi there, I am  👋
+### Hi there, I am  Aryan👋
 
-<!--
-**Aryan6290/Aryan6290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,12 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about Native Android
 - 📫 How to reach me: aryanbarnwal007@gmail.com
 - ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
--->
 
 
 
 
-[![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/Push9828/Push9828.svg)](http://hits.dwyl.com/Aryan6290/Aryan6290)
 
