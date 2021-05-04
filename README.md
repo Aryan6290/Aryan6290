@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
 
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan6290&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
