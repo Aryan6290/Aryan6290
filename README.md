@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/Push9828/Push9828.svg)](http://hits.dwyl.com/Aryan6290/Aryan6290)
+![](https://komarev.com/ghpvc/?username=Aryan6290)
 
 c
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/ar-yawn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/paracetamol650" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
-
 
