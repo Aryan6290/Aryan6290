@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 
 
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&show_icons=true5&count_private=true&show_icons=true&theme=onedark)](https://github.com/Aryan6290/github-readme-stats)
-
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan6290&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Aryan6290)
 
 c
