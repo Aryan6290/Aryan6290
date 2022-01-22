@@ -1,4 +1,8 @@
 ### Hi there, I am  Aryan👋
+Skills:
+
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/Node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=node.js&logoColor=white' height='40'/> 
+<img src='https://img.shields.io/badge/React_Native-20232A.svg?&style=for-the-badge&logo=react&logoColor=white' height='40'/> 
 
 
 - 🔭 I’m currently working on Flutter and React Native
