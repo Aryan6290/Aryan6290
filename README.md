@@ -5,10 +5,10 @@ Skills:
 <img src='https://img.shields.io/badge/React_Native-20232A.svg?&style=for-the-badge&logo=react&logoColor=white' height='40'/> 
 
 
-- 🔭 I’m currently working on MVVM (Android) and React Native
-- 🌱 I’m currently learning Nodejs Development
+- 🔭 I’m currently working on Django (Android) and LLD
+- 🌱 I’m currently learning Blockchain Development
 - 👯 I’m looking to collaborate on Android projects
-- 💬 Ask me about Native Android
+- 💬 Actively looking for Full Time Oppurtunities
 - 📫 How to reach me: aryanbarnwal007@gmail.com
 - ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
 
