@@ -6,9 +6,9 @@ Skills:
 
 
 - 🔭 I’m currently working on Django (Android) and LLD
-- 🌱 I’m currently learning Blockchain Development
-- 👯 I’m looking to collaborate on Android projects
-- 💬 Actively looking for Full Time Oppurtunities
+- 🌱 I’m currently learning Deep Learning and Tensorflow
+- 👯 I’m looking to collaborate on ML Projects
+- 💬 Hit me up for career advice and guidance.
 - 📫 How to reach me: aryanbarnwal007@gmail.com
 - ⚡ Fun fact: Breaking Bad is my favourite TV show of all time !
 
